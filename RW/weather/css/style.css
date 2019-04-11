@@ -1,0 +1,466 @@
+body
+{
+	margin:0px;
+    background-image:url(../images/day-background.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+     color:#EEE;
+}
+
+.outer-day
+{
+ width:1350px;
+  
+ background-image:url(../images/day-background.jpg);
+ background-repeat:no-repeat;
+ background-size:100% 100%;
+}
+
+.outer-night
+{
+ width:1350px;
+ background-color:#FC9;
+ color:#EEE;
+ 
+ background-image:url(../images/night-background.jpg);
+ background-size:100% 100%;
+}
+.htitle
+{
+	Width:1350px;
+	height:30px;
+	background-color:transparent;
+	border:thick;
+	border-color:#000;
+	font-family:"Lucida Console", Monaco, monospace;
+	background-size:100% 100%;
+}
+
+.header
+{
+    color:#EEE;	
+	width:1300px;
+	height:200px;
+	
+}
+.mid
+
+{
+	
+	height:600px;
+	width:1350px;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-image:url(../images/weather.gif);
+}
+
+
+
+
+f
+{
+	font-size:30px;
+}
+f1
+{
+	font-size:40px;
+}
+	
+.curtamp
+{
+
+width:200px;
+height:150px;
+ color:#EEE;
+
+text-align:center;
+margin-left:550px;
+margin-top:25px;
+font-size:20px;
+float:left;
+}
+
+.curtamp:hover
+{
+	height:150px;
+	width:220px;
+	background-image:url(../images/blur-night-background.jpg);
+	border:2px solid #ffF;
+	}
+	
+	
+.curdet
+{
+	height:80px;
+	width:1300px;
+	background-color:transparent;
+	color:#EEE;
+	text-align:center;
+}
+
+h1
+{
+	color:#EEE;
+	font-size:50px;
+	font-family:"Arial Black", Gadget, sans-serif;
+}
+
+
+.main1
+{
+	width:1000px;
+	height:20px;
+	color:#EEE;
+	margin-bottom:10px;
+}
+.main1-1
+{
+	width:125px;
+	height:20px;
+	float:left;
+	margin-left:300PX;
+	 color:#EEE;
+}
+.main1-2
+{
+	width:125px;
+	height:20px;
+	float:left;	
+    color:#EEE;
+}
+.main2
+{
+ width:1350px;
+ height:125px;
+ color:#EEE;
+ 
+ 
+}
+.m1,.m2,.m3,.m4,.m5,.m6,.m7,.m8,.m9,.m10,.m11,.m12,.m13,.m14,.m15,.m17,.m18,.m19,.m20,.m21
+{	
+	height:125px;
+	width:80px;
+    float:left;	 
+	text-align:center;
+}
+.m16
+{
+	height:125px;
+	width:50px;
+    float:left;	 
+	text-align:center;
+	}
+.m1:hover,.m3:hover,.m5:hover,.m7:hover,.m9:hover,.m11:hover,.m13:hover,.m15:hover,.m17:hover
+{
+	width:77px;
+	height:121px;
+	border:thin solid #ffF;
+	background-image:url(../images/blur-night-background.jpg);
+}
+
+.map
+{
+	height:300px;
+	width:1330px;
+}
+
+.midle
+{
+	width:1350px;
+	height:150px;
+	
+	
+}
+
+
+.mid1
+{
+	height:150px;
+	width:125px;
+	background-color:transparent;
+	float:left;
+	font-size:24px;
+	padding-left:10px;
+	
+}
+.mid1:hover
+{
+	width:125x;
+	height:150px;
+	border:thin solid #ffF;
+	background-image:url(../images/blur-night-background.jpg);
+}
+
+.mid2,.mid3,.mid4,.mid5,.mid6,.mid7,.mid8,.mid9,.mid11,.mid12,.mid13,.mid14
+{
+	height:150px;
+	width:125px;
+	background-color:transparent;
+	float:left;
+	font-size:24px;
+	
+}
+.mid3:hover,.mid5:hover,.mid7:hover,.mid9:hover,.mid11:hover,.mid13:hover
+{
+	height:150px;
+	width:125px;
+    border:thin solid #ffF;
+	background-image:url(../images/blur-night-background.jpg);
+	
+}
+
+.mid10
+{
+	height:150px;
+	width:80px;
+	background-color:transparent;
+	float:left;
+	}
+sm
+{
+	font-size:16px;
+}
+
+
+
+
+
+
+.main4,.main5,.main6,.main7,.main8,.main9
+{
+	width:1300px;
+	height:80px;
+	margin-top:20px;
+	margin-left:10px;		
+}
+
+
+.main3
+{
+	width:1300px;
+	height:80px;
+	margin-top:20px;
+	margin-left:10px;		
+	 
+}
+.main3-1,.main4-1,.main5-1,.main6-1,.main7-1,.main8-1,.main9-1
+{
+	width:200px;
+	height:80px;
+	float:left;
+    padding-top:15px;
+
+}
+
+.main3-2-1,.main4-2-1,.main5-2-1,.main6-2-1,.main7-2-1,.main8-2-1,.main9-2-1
+{
+	
+	width:50px;
+	height:50px;
+	float:left;
+	
+}
+
+
+
+.main3-2,.main4-2,.main5-2,.main6-2,.main7-2,.main8-2,.main9-2
+{
+	
+	width:125px;
+	height:80px;
+	float:left;
+	padding-left:100px;
+	padding-top:15px;			
+}
+
+.main10
+
+{
+	width:1300px;
+	height:40px;
+	font-family:"Times New Roman", Times, serif;
+    font-size:30px;
+	padding-left:10px;
+	padding-top:20px;
+    
+	 
+
+}
+
+
+
+.sunrise
+{
+	 
+	width:600px;
+	height:20px;
+	padding-left:600px;	
+}
+.sunset
+{
+	 
+	width:600px;
+	height:20px;
+	margin-bottom:5px;	
+	padding-left:600px;
+}
+.rain
+{
+	
+	width:550px;
+	height:20px;	
+	padding-left:650px;
+}
+.humidity
+{
+	 
+	width:580px;
+	height:20px;	
+	margin-bottom:5px;
+	padding-left:620px;
+}
+.pressur
+{
+	 
+	width:603px;
+	height:20px;	
+	padding-left:597px;
+}
+.flike
+{
+	 
+	width:577px;
+	height:20px;	
+	margin-bottom:5px;
+	padding-left:623px;
+}
+.cloud
+{
+	 
+	width:590px;
+	height:20px;	
+	padding-left:610px;
+}
+.wind
+{
+	 	width:580px;
+	height:20px;	
+	padding-left:620px;
+}
+
+.couter
+{
+	width:1300px;
+	height:405px;
+}
+.c1
+{
+ width:403px;
+ height:405px;	
+ float:left;
+ margin-left:5px;
+}
+
+.c2
+{
+	height:200px;
+	width:400px;
+    float:left;	
+	border-top:thin solid #EEE;
+	margin-left:20px;
+}
+.c3
+{
+	height:300px;
+	width:400px;
+    float:left;	
+	border-top:thin solid #EEE;
+	margin-left:20px;
+	background-image:url(../images/weather1.gif);
+		background-repeat:no-repeat;
+	background-size:100% 100%;
+	font-size:20px;
+}
+	
+.bottom
+{
+	height:200px;
+	width:400px;
+    	
+	border-top:thin solid #EEE;
+}
+
+
+.bottom1
+{
+	height:200px;
+	width:400px;
+    	
+	
+}
+
+.circle1
+{
+	width:150px;
+	margin-top:10px;
+	height:100px;
+	background-color:transparent;
+	border:5px solid #6FF;
+	border-radius:50% 50%;
+	color:white;
+	padding-top:50px;
+	font-size:30px;
+	text-align:center;
+	float:left;
+}
+
+ht
+{
+	font-size:15px;
+	
+}
+.circle2
+{
+	width:150px;
+	margin-top:10px;
+	height:100px;
+	background-color:transparent;
+	border:5px solid #6FF;
+	border-radius:50% 50%;
+	color:white;
+	padding-top:50px;
+	font-size:30px;
+	text-align:center;
+	float:left;
+	margin-left:35px;
+}
+
+.circle3
+{
+	width:150px;
+	height:100px;
+	
+	background-color:transparent;
+	border:5px solid #6FF;
+	border-radius:50% 50%;
+	color:white;
+	padding-top:50px;
+	font-size:30px;
+	text-align:center;
+	float:left;
+}
+
+.circle4
+{
+	width:150px;
+	height:100px;
+	background-color:transparent;
+	border:5px solid #6FF;
+	border-radius:50% 50%;
+	color:white;
+	padding-top:50px;
+	font-size:30px;
+	text-align:center;
+	float:left;
+	margin-left:35px;
+}

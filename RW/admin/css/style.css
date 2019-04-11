@@ -1,0 +1,359 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color:#CCC;
+	margin:0 auto;
+}
+.outer
+{
+	width:1000px;
+	margin:0 auto;
+	background-color:#CCC;
+	border:#666 5px solid;
+}
+
+.header
+{
+	height:150px;
+	width:1000px;
+	background-color:#600;
+}
+
+.hlogo
+{
+	height:130px;
+	width:160px;
+	float:left;
+	margin:10px 0 0 20px;
+	border-radius:50%;
+	background-image:url(../images/admin.png);
+	background-size:100% 100%;
+	background-position:center;
+}
+
+.htxt
+{
+	height:60px;
+	width:275px;
+	background-color:#666;
+	float:right;
+	margin:45px 25px 0 0;
+	color:#FFF;
+	font-size:50px;
+	border-radius:30px;
+	padding-left:15px;
+}
+
+.menubar
+{
+	height:100px;
+	width:1000px;
+	margin:0 auto;
+	border-bottom:#000 solid 1px;
+}
+.menu
+{
+	height:50px;
+	width:80px;
+	margin:20px 0 0 20px;
+	background-color:#600;
+	float:left;
+	padding:10px 0 0 0px;
+	text-align:center;
+	color:#FFF;
+}
+
+.main
+{
+	height:0 auto;
+	width:1000px;
+}
+.mindexl
+{
+	height:120px;
+	width:500px;
+	float:left;
+	margin-top:40px;
+}
+
+.mindexr
+{
+	height:120px;
+	width:500px;
+	float:right;
+	margin-top:40px;
+}
+.mainrow
+{
+	height:30px;
+	width:1000px;
+	margin-top:5px;
+}
+.mleft
+{
+	height:30px;
+	width:300px;
+	float:left;
+	font-size:25px;
+	text-align:right;
+	color:#600;
+}
+.mright
+{
+	height:30px;
+	width:600px;
+	float:right;
+	margin:0 70px 0 0;
+}
+
+
+
+.minfo
+{
+	height:30px;
+	width:450px;
+	margin-top:30px;
+}
+
+.row
+{
+	height:30px;
+	width:1000px;
+	margin-top:30px;
+	font-size:20px;
+	color:#600;
+}
+.label
+{
+	height:30px;
+	width:250px;
+	float:left;
+	margin-left:150px;
+	text-align:right;
+	font-size:25px;
+	color:#600;
+}
+.info
+{
+	height:30px;
+	width:350px;
+	float:right;
+	margin-right:220px;
+	font-size:25px;
+	color:#600;
+}
+.mgalleryleft
+{
+	height:150px;
+	width:400px;
+	float:left;
+	margin-top:40px;
+}
+.mginfo
+{
+	height:30px;
+	width:370px;
+	margin-top:30px;
+	text-align:right;
+	padding-right:30px;
+	font-size:23px;
+	color:#600;
+}
+
+.mgalleryright
+{
+	height:150px;
+	width:600px;
+	float:right;
+	margin-top:40px;
+}
+.mgtxt
+{
+	height:30px;
+	width:500px;
+	margin-top:30px;
+}
+
+.mnewsl
+{
+	height:150px;
+	width:400px;
+	float:left;
+	margin-top:10px;
+}
+.mninfo
+{
+	height:30px;
+	width:370px;
+	margin-top:30px;
+	text-align:right;
+	font-size:22px;
+	padding-right:30px;
+}
+.mnewsr
+{
+	height:200px;
+	width:600px;
+	float:right;
+	margin-top:10px;
+}
+.mntxt
+{
+	height:30px;
+	width:300px;
+	background-color:#399;
+	margin-top:30px;
+}
+
+.mwhywel
+{
+	height:30px;
+	width:370px;
+	float:left;
+	text-align:right;
+	font-size:20px;
+	padding-right:30px;
+	margin-top:100px;
+	color:#600;
+}
+.whywer
+{
+	height:30px;
+	width:600px;
+	float:right;
+	margin-top:100px; 
+}
+
+.titel
+{
+	height:23px;
+	padding-top:5px;
+	width:150px;
+	border:#00F 1px solid;
+	border-left-width:0px;
+	float:left;
+	color:#600;
+	text-align:center;
+}
+
+.footer
+{
+	height:95px;
+	width:1000px;
+	background-color:#600;
+	clear:both;
+}
+.fleft
+{
+	height:30px;
+	width:200px;
+	color:#FFF;
+	margin:20px 50px 0 0;
+	float:right;
+	font-size:20px;
+}
+
+.tbl
+{
+	width:1000px;
+	background-color:#C9F;
+}
+.viewrow
+{
+	height:30px;
+	width:1000px;
+	background-color:#C9F;
+	margin-top:3px;
+}
+.col
+{
+	height:25px;
+	width:100px;
+	background-color:#FFF;
+	color:#600;
+	text-align:center;
+	float:left;
+	margin-left:3px;
+	padding-top:5px;
+}
+
+.ttl
+{
+	height:25px;
+	width:150px;
+	background-color:#FFF;
+	color:#600;
+	text-align:center;
+	float:left;
+	margin-left:3px;
+	padding-top:5px;
+}
+
+.desc
+{
+	height:25px;
+	width:225px;
+	background-color:#FFF;
+	color:#600;
+	text-align:center;
+	float:left;	
+	margin-left:3px;
+	padding-top:5px;
+}
+.dur
+{
+	height:25px;
+	width:100px;
+	background-color:#FFF;
+	color:#600;
+	text-align:center;
+	float:left;	
+	margin-left:3px;
+	padding-top:5px;
+}
+ .col a
+{
+	text-decoration:none;
+	color:#600;
+}
+
+a
+{
+	text-decoration:none;
+	color:#fff;
+}
+
+.search
+{
+	height:30px;
+	width:1000px;
+	margin:10px 0 10px 0;
+	font-size:25px;
+	color:#600;
+}
+.s1
+{	
+	width:250px;
+	height:30px;
+	margin-left:650px;
+	font-size:20px;
+}
+.but
+{
+	width:100px;
+	height:30px;
+	color:#FFF;
+	background-color:#600;
+	font-size:20px;
+}
+.im
+{
+	height:30px;
+	width:30px;
+}
+.im:hover
+{
+	transform:scale(4,4);
+	transition:3s;
+}
